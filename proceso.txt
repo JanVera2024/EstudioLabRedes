@@ -1,7 +1,7 @@
 echo "# EstudioLabRedes" >> README.md
 git init
 git add README.md
-git commit -m "Primer commit 12 abril"
+git commit -m "segundo commit 12 abril"
 git branch -M main
 git remote add origin https://github.com/JanVera2024/EstudioLabRedes.git
 git push -u origin main

@@ -1,3 +1,422 @@
+Internet es 
+    una red global de computadoras y dispositivos interconectados que permite la comunicación y el intercambio de información entre usuarios de todo el mundo. Aquí tienes un resumen breve:
+    - Comunicación Global: Permite a las personas comunicarse instantáneamente, sin importar la distancia.
+    - Intercambio de Información: Facilita el acceso y la distribución de datos, noticias y conocimientos.
+    - Conectividad: Conecta dispositivos y servicios, soportando una variedad de aplicaciones como correo electrónico, redes sociales y comercio electrónico.
+    - Recursos: Ofrece una vasta cantidad de recursos para educación, entretenimiento y negocios.
+El ancho de banda 
+    es la cantidad máxima de datos que pueden ser transmitidos a través de una conexión de red en un tiempo determinado. Se mide en bits por segundo (bps) y sus múltiplos como kilobits, megabits o gigabits. En términos simples, el ancho de banda determina la velocidad a la que se pueden enviar y recibir datos en una red. Cuanto mayor sea el ancho de banda, más rápida será la transferencia de datos.
+La banda ancha 
+    se refiere a cualquier tipo de red de telecomunicaciones que permite la transmisión de datos a alta velocidad. Incluye tecnologías como la fibra óptica, ADSL y la conexión móvil 4G. Es fundamental para el acceso constante a Internet y soporta múltiples dispositivos conectados simultáneamente.
+El Internet ha revolucionado la comunicación y transformado el mundo de manera profunda. Aquí tienes un breve resumen de su evolución:
+    - Origen y Creación: Durante la Guerra Fría, el gobierno de Estados Unidos creó la red ARPANET en 1969 para conectar computadoras y compartir datos. Esta fue la semilla del Internet actual.
+    - Expansión Global: A lo largo de las décadas, el Internet se expandió a nivel mundial, conectando miles de máquinas. Hoy en día, más de 750,000 millas (1,200,000 kilómetros) de cables submarinos y terrestres enlazan computadoras en todos los continentes, excepto la Antártida.
+    - Velocidad y Comunicación: El Internet es el método de comunicación más rápido del mundo. Por ejemplo, es posible enviar datos desde Londres, Reino Unido, hasta Sídney, Australia en solo 250 milisegundos.
+    - Funcionamiento: Los cables de fibra óptica transmiten datos como pulsos de luz. Estos cables están enterrados bajo el mar y conectan continentes e islas. Al usar el Internet, tu computadora envía mensajes a través de estos cables para acceder a datos almacenados en otras máquinas.
+    - Impacto: El Internet ha revolucionado la forma en que nos comunicamos, trabajamos, aprendemos y nos entretenemos. Desde el correo electrónico hasta las redes sociales, ha cambiado nuestra vida cotidiana.
+    En resumen, el Internet ha conectado al mundo y ha permitido una comunicación instantánea y global como nunca antes. 🌐🚀
+¿Qué proveedores ofrecen acceso a Internet?
+  - Los proveedores de acceso a Internet (ISP) son empresas que conectan a los usuarios a Internet mediante diversas tecnologías como módems, DSL, enrutadores inalámbricos o conexiones de fibra óptica.
+  - Ejemplos de proveedores incluyen AT&T, Verizon, y Xfinity.
+¿Qué son las redes?
+  - Las redes son conjuntos de elementos interconectados que permiten compartir información o recursos entre ellos.
+  - Pueden ser redes telefónicas, de transporte, informáticas o sociales.
+¿Qué es el hardware?
+  - El hardware es la parte física de un sistema informático, como la tarjeta madre, el procesador o el monitor.
+  - Es todo lo tangible que conforma un equipo, desde teclados hasta dispositivos periféricos.
+¿Qué es el software?
+  - El software es el conjunto de programas y códigos que permiten el funcionamiento de un sistema informático.
+  - Incluye aplicaciones, sistemas operativos y herramientas que controlan el hardware.
+Diferencia entre hardware y software:
+  - Hardware: Componentes físicos (como teclados, pantallas) que dan soporte a la computadora.
+  - Software: Conjunto de programas y códigos que permiten ejecutar funciones en la computadora.
+¿Qué son los equipos de red?
+  - Los equipos de red son dispositivos que permiten la comunicación y conexión entre computadoras, como routers, switches y firewalls.
+¿Qué es un rack?
+  - Un rack es una estructura para montar y organizar equipos electrónicos en un centro de datos o sala de servidores.
+¿Qué es un switch?
+  - Un switch es un dispositivo de red que conecta múltiples dispositivos dentro de una red local (LAN).
+¿Qué es un router?
+  - Un router es un dispositivo que conecta redes y dirige el tráfico entre ellas, como el acceso a Internet.
+¿Qué es un firewall?
+  - Un firewall es un sistema de seguridad que controla el tráfico de red y protege contra amenazas externas.
+¿Qué es una VPN?
+  - Una VPN (Red Privada Virtual) permite conexiones seguras y privadas a través de Internet.
+¿Qué es un servidor de DNS?
+  - Un servidor de DNS traduce nombres de dominio en direcciones IP para acceder a sitios web.
+¿Qué es un repetidor?
+  - Un repetidor amplifica señales de red para extender su alcance.
+¿Qué es un Access Point (AP)?
+  - Un Access Point (AP) es un dispositivo que permite la conexión inalámbrica a una red.
+Diferencia entre AP y repetidor:
+  - El AP crea una nueva red inalámbrica, mientras que el repetidor amplifica una red existente.
+¿Qué es la fragmentación de paquetes?
+  - La fragmentación de paquetes divide datos grandes en paquetes más pequeños para su transmisión eficiente en redes.
+-----------------------------------------------------------------
+Internet: Es una red global de computadoras que permite la comunicación y el intercambio de información entre usuarios de todo el mundo1.
+Ancho de banda: Se refiere a la capacidad de transmisión de una red, medida en bits por segundo (bps) o megabits por segundo (Mbps)2.
+Banda ancha: Es un término que describe las conexiones de internet de alta velocidad, como la fibra óptica y el ADSL2.
+Revolución de Internet: Internet ha transformado la sociedad facilitando el acceso a la información, mejorando la comunicación y creando nuevas industrias3.
+Proveedores de acceso a Internet en Chile: Algunos de los principales proveedores son Entel, Movistar, WOM, Claro y VTR4.
+Hardware: Son los componentes físicos de un dispositivo, como circuitos, memorias y discos duros5.
+Software: Conjunto de programas e instrucciones que permiten ejecutar tareas en un dispositivo1.
+Diferencia entre hardware y software: El hardware es la parte física de un dispositivo, mientras que el software es el conjunto de programas que permiten operarlo6.
+Equipos de red: Dispositivos que permiten la conexión y comunicación entre diferentes sistemas en una red7.
+Rack: Estructura metálica diseñada para organizar y almacenar equipos electrónicos y de tecnología de la información8.
+Switch: Dispositivo que filtra y encamina paquetes de datos entre segmentos de redes locales9.
+Router: Dispositivo que dirige el tráfico de datos entre redes, comúnmente utilizado para proporcionar acceso a internet10.
+Firewall: Dispositivo de seguridad que monitoriza y filtra el tráfico de red basándose en políticas de seguridad establecidas11.
+VPN: Red privada virtual que permite una conexión segura y cifrada a través de internet12.
+Servidor de DNS: Sistema que traduce nombres de dominio a direcciones IP para localizar recursos en internet12.
+Repetidor: Dispositivo que amplifica la señal de una red para extender su alcance12.
+Access Point (AP): Dispositivo que permite la conexión inalámbrica a una red12.
+Diferencia entre AP y repetidor: Un AP conecta dispositivos inalámbricos a una red, mientras que un repetidor extiende la cobertura de la red existente12.
+Fragmentación de paquetes: Proceso de dividir datos en partes más pequeñas para su transmisión a través de una red y luego reensamblarlos en el destino12.
+---------------------------------------
+phishin / suplantacion de identidad
+ISP Proveedor de servicios de internet 'claro' 'entel' 
+ADSL cable de cobre a mas distancia disminuye la velocidad 
+ATENUACION perdida de velocidad 
+SIMETRICO la velocidad de bajada es la misma que la de subida 
+DISPOSITIVOS FINALES computadores,camaras,servidores,notebooks 
+DISPOSITIVOS INTERMEDIARIOS 
+CAPAS 1 AL 7 la capa 8 es el usuario 
+MODELO OSI 
+RACK o gabinete 
+    estructura metalica de fierro que soporta los equipos
+    ancho estandar de 19"
+    es rakeable => soporta hardware 
+    UR  
+        Unidad de RACK
+        3 = 1 ur de altura por cada hardware
+        1ur por cada equipo 
+        1ur entre cada equipo por ventilacion pasiva  
+    se perfora la loza poara el anclaje del RACK
+    en salas climatizadas
+    sin redes de agua
+    con control de acceso
+        reconocimineto facial , iris tambien 
+    el cabledo esta normalizado 
+    cable LSBH 
+        inicuo       
+FLUDING 
+    envio de informacion masiva 
+ATAQUES DDOS 
+    denegacion de servicio centralizado    
+SWITCH 
+    dispositivo de red que permite conectar dispositivos finales 
+    que conforman una red lan de area LOCAL
+ROUTER 
+    dispositivo que cocnecta a internet 
+    elije ruta mas efectiva hacia el destino
+    (EL ROUTER HOGAR tanbien funciona como SWITCH)    
+FIREWALL 
+    controla fdatos entrantes y salientes(capa 7) en una red 
+    INET <---->  FIREWALL <-----> seguridad perimetral
+                Como guardia de seguridad 
+                revisa los paquetres 
+                permite o deniega   
+    EJEM     empresas bloquena facebook instagram etc 
+VPN 
+    firna digital/psw/algoritmo de encriptacion
+    software que se monta en el hardware 
+    red privada virtual 
+    se instala en el firewall ? 
+    VPN SSL gralmente para teletrabajo 
+    es un servicio 
+DNS
+    traduce nombres de dominio en direcciones IP 
+    EJEM . google.com 
+        Google Public DNS IPv4: 8.8.8.8
+        Google IPv4 Secundaria: 8.8.4.4
+    SERVIDORES DNS publicos 
+REPETIDOR DE SENAL 
+    para un hogar para extender el alcance de una senal inalambrica
+    retransmite con mayor potencia          
+    POTENCIA DBI ejem repetidor de 5DBI 
+ACCES POINT 
+    AP 
+    En un ambiente empresarial 
+    lista de control de acceso 
+    control de dispositivos 
+    puede crear una nueva senal 
+        de una red se pueden generar mas redes controlables
+        con WLC     
+            se controlan privilegios a los accesoso de los usuarios 
+PACKET TRACER 
+    Simulador de red 
+    programa de CISCO 
+    con vista  y vista fisica                 
+    topologias 
+TOPOLIGIA 
+    diagrama de RED 
+    ACCESOS A  INTERNET     // ACCESO A LA RED 
+        ROUTER                  SWITCH 
+        FIREWALL                DISPOSITIVOS FINALES  
+-------------------------------------
+SISTEMA BINARIO
+Base 2
+1111 11112 = 𝟐𝟓𝟓𝟏�
+
+SISTEMA HEXADECIMAL
+Base 16. Relación directa con sistema decimal,
+permite representar datos binarios grandes con
+menos dígitos. Ideal para cadenas de datos
+complejos, cadenas de bits demasiado largas.
+Sistema que usa 16 dígitos, dígitos del 0 al 9, y
+letras de la A a la F.
+En resumen, es usado en sistemas informáticos y/o
+digitales para facilitar el entendimiento y
+legibilidad de datos, números grandes y/o cadenas
+de bits demasiado largas.
+1111 0101 1100 11112 = 𝐅𝟓𝐂𝐅𝟏𝟔
+
+SISTEMA DECIMAL
+Base 10
+25510 = 𝟏𝟏𝟏𝟏 𝟏𝟏𝟏𝟏�2
+
+CONVERSIÓN DECIMAL – HEXA - BINARIO
+Buscar – Calculadora
+Seleccionar Programador
+
+CONVERSIÓN DECIMAL - BINARIO
+𝟐
+𝟕 𝟐
+𝟔 𝟐
+𝟓 𝟐
+𝟒 𝟐
+𝟑 𝟐
+𝟐 𝟐
+𝟏 𝟐
+𝟎
+128 64 32 16 8 4 2 1
+1 1 1 0 0 0 1
+64 + 32 + 16 + 0 + 0 + 0 + 1 = 113
+Derecha a Izquierda
+
+𝟐
+𝟕 𝟐
+𝟔 𝟐
+𝟓 𝟐
+𝟒 𝟐
+𝟑 𝟐
+𝟐 𝟐
+𝟏 𝟐
+𝟎
+128 64 32 16 8 4 2 1
+1 1 1 1 1 1 1 1
+128 + 64 + 32 + 16 + 8 + 4 + 2 + 1 = 255
+Derecha a Izquierda
+
+CONVERSIÓN DECIMAL A BINARIO
+ 7  6  5  4  3 2 1 𝟎
+128 64 32 16 8 4 2 1
+Derecha a Izquierda
+= 179
+
+- CONVERSIÓN DECIMAL A BINARIO
+2 bytes
+        8 bits = 1 byte                 8 bits = 1 byte =18Bits=2Byte
+                                    
+32768 16384 8192 4096 2048 1024 512 256 128 64 32 16 8 4 2 1
+Derecha a Izquierda
+
+¿QUÉ ES UNA IP?
+    Una IP es una dirección única, para
+    dispositivos en Internet,
+    computadores, teléfonos, impresoras,
+    televisores, servidores, entre otros.
+    No pueden haber 2 direcciones IPs
+    iguales, sin embargo, esta puede
+    cambiar.
+    Una dirección IP, es una dirección
+    lógica.
+
+IP V4 E IP V6
+    Protocolo IPv4 creado en 1983, es un
+    formato estándar que permite que todos los
+    dispositivos en Internet, se comuniquen entre
+    sí. La cantidad máxima de direcciones es de
+    2
+    32
+    . Esto, debido a que la longitud máxima
+    de las direcciones IPv4 es de 32 bits.
+    Protocolo IPv6 creado en 1998, sucesor del
+    anterior, utiliza direcciones de 128 bits,
+    permite más direcciones, al usar caracteres
+    Hexadecimales, tiene un espacio de
+    direcciones más amplio que IPv4, la
+    cantidad máxima de direcciones es de 2
+    128
+    .
+    https://www.google.com/ipv6/
+
+IPV10
+    Es un borrador propuesto a la IETF, con el
+    objetivo de hacer coexistir IPv4 e IPv6 en
+    simultáneo, teniendo “ventajas” como el no
+    haber un servidor DNS en el proceso de
+    comunicación, un proceso de implementación
+    de corto plazo, y por último una comunicación
+    flexible entre host con IPv4 e IPv6.
+    Sin embargo, al no ser aún un protocolo
+    terminado ni oficial, es sólo un draft
+    (borrador).    
+
+RANGO IPS PRIVADAS (ESTÁNDAR RFC 1918)
+    10.0.0.0 – 10.255.255.255
+    172.16.0.0 – 172.31.255.255
+    192.168.0.0 – 192.168.255.255
+
+CLASES DE DIRECCIONES IPS
+    Rango Clase Ejemplo
+    0.0.0.0 – 127.255.255.255 A 10.16.21.140
+    128.0.0.0 – 191.255.255.255 B 181.161.42.51
+    192.0.0.0 - 223.255.255.255 C 192.168.1.20
+    224.0.0.0 – 239.255.255.255 D 224.0.0.5
+    240.0.0.0 – 255.255.255.255 E 240.0.0.1
+    ** El rango 127.0.0.0/8 es reservado para direcciones de
+    loopback
+
+MÁSCARAS DE SUBRED POR DEFECTO
+    Clase Máscara
+    A 255.0.0.0
+    B 255.255.0.0
+    C 255.255.255.0
+
+--------------------------------------
+SISTEMA BINARIO 
+    es de base 2
+    valores posibles 0 o 1 
+    encendido o apagado 
+    con 8 digitos
+    cpu esta en binario digital // ram en exadecimal
+    1 bit es 0 o 1
+    1 byte=8bits 
+    DE BINARIO A DECIMAL
+        tabla de conversion de binario a decimal
+        8    7   6   5   4   3   2   1
+        2^7 2^6 2^5 2^4 d^3 2^2 2^1 2^0
+        128  64  32  16  8   4   2   1 
+        0   0    0   0  0   1   1   0   
+                            4 + 2      = 6  
+        0   1    0   1   0  1   0   0
+            64  +     16  +  4          =  84
+        1   1    1   1   1   1  1  1
+        128+64 +32 + 16 + 8 +4 +2 + 1  = 255 
+        para IPV4 1 octeto     
+        siempre =< 255 (nunca mayor que 255)
+    DE DECIMAL A BINARIO 
+        128  64  32  16  8   4   2   1    
+    75 = 0    1   0   0  1  0    1   1
+            75-64    
+                    11 - 8
+                            3  = 2 + 1
+
+SISTEMA EXADECIMAL 
+    16 valores
+    ram trabaja exadecmal 
+    tabla
+        decimal binario exa
+                8421 
+        0       0000    0
+        1       0001    1
+        2       0010    2
+        3       0011    3
+        4       0100    4
+        5       0101    5
+        6       0110    6
+        7       0111    7
+        8       1000    8
+        9       1001    9
+        10      1010    A
+        11      1011    B
+        12      1100    C
+        13      1101    D
+        14      1110    E
+        15      1111    F
+
+        EJEM 
+             de decimal a exadecimal 
+                1=1
+                9=9
+                10=A
+                15=F 
+                14=E 
+DE BINARIO A EXADECIMAL 
+            EJEM 
+            1010= A  
+            1001= 9    
+TABLA DE 2 OCTETOS 
+16	    15	    14	    13	    12	    11	    10	    9	    8	    7	    6	    5	    4	    3	    2	    1
+2EL15	2EL14	2EL13	2EL12	2EL11	2EL10	2EL9	2EL8	2EL7	2EL6	2EL5	2EL4	2EL3	2EL2	2EL1	2EL0
+15	    14	    13	    12	    11	    10	    9	    8	    7	    6	    5	    4	    3	    2	    1	    0
+32768	16384	8192	4096	2048	1024	512	    256	    128	    64	    32	    16	    8	    4	    2	    1
+                                        915=    1        1      1       0       0       1       0       0       1       1
+                                            915-512=403
+                                                403-256=147
+                                                        147 - 128 =19
+                                                                                        19-16=3
+                                        915=1110010011                                                
+
+                                        https://es.convertbinary.com/binario-a-decimal/
+                                        creado convertidor8bits.html
+                                        creado convertidor16bits.html
+                                        creado convertidorExa.html
+                                        
+programas creados para el aprendizaje en el curso en
+https://kizen.000webhostapp.com/app-admin-info/n
+
+---
+IPv4 utiliza direcciones de 32 bits, 
+divididas en 4 octetos. 
+Cada octeto consiste en 8 bits, 
+lo que suma un total de 32 bits en la dirección IP. 
+Estos octetos se representan comúnmente en formato decimal separados por puntos, 
+como en "192.168.1.1". 
+Cada octeto puede tener un valor entre 0 y 255, 
+lo que proporciona una amplia gama de direcciones únicas posibles.
+
+Un byte está compuesto por 8 bits. 
+Dado que IPv4 utiliza direcciones de 32 bits, 
+eso equivale a 4 bytes. 
+Cada uno de los 4 octetos en una dirección IPv4 representa un byte. 
+Por lo tanto, una dirección IPv4 se compone de 4 bytes en total.
+---
+IPv6 (Internet Protocol version 6) 
+es la versión más reciente del Protocolo de Internet, 
+diseñada para reemplazar a IPv4. 
+A diferencia de IPv4, que utiliza direcciones de 32 bits, 
+IPv6 utiliza direcciones de 128 bits. 
+Estas direcciones más largas permiten un número sustancialmente mayor 
+de direcciones únicas, lo que aborda el problema de agotamiento de direcciones 
+que enfrenta IPv4. 
+En IPv6, una dirección se representa como ocho grupos 
+de cuatro dígitos hexadecimales, separados por dos puntos, 
+como en "2001:0db8:85a3:0000:0000:8a2e:0370:7334". 
+IPv6 también ofrece mejoras en 
+    seguridad, 
+    calidad de servicio 
+    y eficiencia en el enrutamiento. 
+Aunque IPv6 está siendo gradualmente adoptado, 
+IPv4 sigue siendo ampliamente utilizado y ambos protocolos 
+coexisten en la actualidad con mecanismos de transición.
+
+IPv6 utiliza direcciones de 128 bits.
+ Esto significa que una dirección IPv6 consta de 128 bits en total.
+
+Para expresarlo en bytes:
+128 bits / 8 bits/byte = 16 bytes
+Entonces, una dirección IPv6 está compuesta por 16 bytes en total.
+Para comparación, en IPv4, que utiliza direcciones de 32 bits:
+32 bits / 8 bits/byte = 4 bytes
+Por lo tanto, una dirección IPv4 está compuesta por 4 bytes en total.
+
+(Esta diferencia en la longitud de las direcciones entre IPv4 e IPv6 
+permite a IPv6 tener un espacio de direcciones mucho más grande y,
+ por lo tanto, resolver el problema de escasez de direcciones IPv4.)
+
+-------------------------------------
 0
 1
 01 es binario
@@ -40,7 +459,6 @@ bin/dec/exa
 1100=12=
 1101=13
 1101=13
-
 
 ip = etiqueta numerica unica que 
         identiica en la red y 
@@ -283,7 +701,30 @@ DEFINICIONES
             cable utp fibra optica hub 
             o red de frecuencia del WIFI
 
+------------------------
 
+-------------------------
+EJEMPLO  lectura IP
+    TABLA GUIA
+    CLAS PRIVADAS
+        a    10-10   //8
+        b    172.16-172.31 //16
+        c    192.168-192.168 //24
+    CLASE PUBLICA
+        a    0-126 //127 loop local //8
+        b    128-191 //16
+        c    191-223 //24 
+
+    TIPO                PUBLICA
+    IP                  145.52.63.9 
+    CLASE               B
+    REP. decimal        255.255.0.0
+    mascara             16 
+    IP de red           145.52.0.0 
+    ip broadcast        145.52.255.255 
+    segmento utilizable 145.52.0.1-145.52.255.254
+
+----------------
 HUB 
     es un dispositivo de red 
     que actúa como un concentrador 
@@ -292,7 +733,7 @@ HUB
     Funciona enviando los datos recibidos 
     en un puerto a todos los demás puertos, 
     lo que significa que todos los dispositivos
-    conectados al hub reciben los datos, 
+    conectads al hub reciben los datos, 
     independientemente de si el dispositivo 
     es el destinatario final o no. 
     Esto puede causar congestión en la red 
@@ -305,9 +746,6 @@ HUB
      al enviar datos solo al dispositivo de destino correcto,
         reduciendo la congestión 
         y mejorando el rendimiento de la red.
-
-
-
                  
 
 
