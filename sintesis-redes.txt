@@ -1,0 +1,313 @@
+0
+1
+01 es binario
+00000000.00000000.00000000.00000000=0
+11111111.11111111.11111111.111111111=255
+binario a decimal 
+0000 = 0 
+
+2e0=1
+
+128/64/32/16/8/4/2/1 = 
+e7/e6/e5/e4/e3/e2/e0 = 2eX
+0/ 1/ 0/1 /1 / 0/ 0/ 1
+01011001
+0 1  0  1 1  0 0 1
+0+64+0+16+8 +0+0+1=89  
+11111111
+128+64+32+16+8+4+2+1=255      
+
+<- son 8 valores ->
+<- son 8 bits ->
+
+1=2e0
+2=2e1
+4=2e2
+9=2e3
+
+bin/dec/exa
+0001=1=0
+0010=2=2
+0011=3=3
+0100=4=4
+0101=5=5
+0110=6=6
+0111=7=7
+1000=8=8
+1001=9=9
+1010=10=a
+1011=11=b
+1100=12=
+1101=13
+1101=13
+
+
+ip = etiqueta numerica unica que 
+        identiica en la red y 
+        que se separa por puntos puede ser 
+            dinamica 
+            estatica 
+        que pueden ser 
+            privadas 
+            o publicas
+                00000000.00000000.00000000.00000000=0
+            en binario    11111111.11111111.11111111.111111111=255
+            en decimal         255 .   255   .    255 .    255
+            en decimal  son 4 valores  255.255.255.255
+
+        y en un rango o clase
+                PRIVADAS
+                    a 10.0 -> 10.255
+                    b 172.16 -> 172.31  +
+                    (tB tbien 173 ?)
+                    c 192.168 -> 192.168
+                    PUBLICAS 
+                    A 0.0 -> 126.255
+                    B 128.0 -> 191.255
+                    c 192.0 -> 223.255
+                    d 224
+                    e 240
+
+        tcp protocolo lento pero seguro 
+            se envia mensaje y hay acuso de recibo 
+            del estado de la coneccion
+            (orientado a la conexion)
+
+        sub red 
+            ejemplo ip 
+                00
+                10.48.0.0 / 24 
+                    /24 bits
+                    clase a 
+                    privada 
+                    con red = 10.48 
+                        host = 0.0
+                    mascara de sub red 
+                        255.255.0.0
+
+            clase a 
+            sin embargo con la mascaraes clace c  
+            direccion ip cuando la mascara de sub red es distinta a su clase  
+            
+    ip publica = aquella direccion ip que otorga el ISP  y provee acceso a internet 
+    ip privada = Es la Lan, una empresa,casa,colegio, universidad 
+        ip son de uso interno y desde internet no es posible acceder a esta red 
+        no son ruteables en internet
+        red interna o intranet que no es accesible desde internet 
+    ip de red = identificador unico 
+
+    Direcciones IP:
+
+Las direcciones IP son números únicos que identifican 
+a los dispositivos en una red. 
+Son como las direcciones físicas de las casas en una ciudad: 
+permiten que los dispositivos se comuniquen entre sí y accedan a Internet.
+
+Tipos de Direcciones IP:
+
+Existen dos tipos principales de direcciones IP: privadas y públicas:
+
+1. Direcciones IP Privadas:
+
+Se utilizan dentro de una red local (LAN) para identificar dispositivos específicos.
+No son accesibles desde Internet.
+Permiten la comunicación entre dispositivos dentro de la misma red, como impresoras, computadoras y teléfonos inteligentes.
+Ejemplo: 192.168.1.100
+2. Direcciones IP Públicas:
+
+Son asignadas por un proveedor de servicios de Internet (ISP) a un router o módem.
+Permiten que los dispositivos conectados a la red local se comuniquen con Internet.
+Son visibles para otros dispositivos en Internet.
+Ejemplo: 8.8.8.8
+Clases de Direcciones IP Privadas:
+
+Las direcciones IP privadas se dividen en tres clases, según el rango de números que utilizan:
+
+    Clase A: 10.0.0.0 - 10.255.255.255 (para redes grandes)
+    Clase B: 172.16.0.0 - 172.31.255.255 (para redes medianas)
+    Clase C: 192.168.0.0 - 192.168.255.255 (para redes pequeñas)
+
+Red Local (LAN): Área local con dispositivos conectados.
+Router: Dispositivo que conecta la red local a Internet.
+Dirección IP Pública: Asignada al router por el ISP.
+Direcciones IP Privadas: Asignadas a los dispositivos dentro de la red local.
+
+Conclusión:
+    Las direcciones IP privadas y públicas son esenciales para 
+        el funcionamiento de las redes. 
+        Las direcciones IP privadas permiten la comunicación interna dentro de una red local, 
+        mientras que las direcciones IP públicas permiten que los dispositivos se comuniquen con Internet.
+
+    
+Clases de Direcciones IP Públicas
+Las direcciones IP públicas también se dividen en tres clases, al igual que las privadas, 
+pero con rangos de números diferentes:
+    Clase A: 0.0.0.0 - 126.255.255.255 (para grandes redes internacionales)
+        [127.0.0.0 - 127.255.255.255: Red de loopback (localhost)]
+    Clase B: 128.0.0.0 - 191.255.255.255 (para redes medianas nacionales)
+    Clase C: 192.0.0.0 - 223.255.255.255 (para redes pequeñas locales)
+Es importante destacar que:
+
+La mayoría de los ISP no asignan direcciones IP públicas de clase A a sus clientes.
+Las direcciones IP públicas de clase B son comunes para empresas y organizaciones medianas.
+Las direcciones IP públicas de clase C son las más comunes para uso residencial.
+Rangos especiales:
+
+    127.0.0.0 - 127.255.255.255: Red de loopback (localhost)
+    224.0.0.0 - 239.255.255.255: Multicast
+
+Conclusión:
+Las clases de direcciones IP públicas se utilizan para identificar redes de diferentes tamaños 
+y ubicaciones. La clase de una dirección IP pública puede indicar la cantidad de dispositivos 
+que pueden estar conectados a la red y la ubicación geográfica de la red.
+
+Rango de IP	                    Clase	Pública/Privada	    Descripción
+0.0.0.0 - 126.255.255.255	    A	Pública	Grandes redes internacionales
+128.0.0.0 - 191.255.255.255	    B	Pública	Redes medianas nacionales
+192.0.0.0 - 223.255.255.255	    C	Pública	Redes pequeñas locales
+10.0.0.0 - 10.255.255.255	    A	Privada	Redes privadas grandes
+172.16.0.0 - 172.31.255.255	    B	Privada	Redes privadas medianas
+192.168.0.0 - 192.168.255.255	C	Privada	Redes privadas pequeñas
+127.0.0.0 - 127.255.255.255	-	-	Red de loopback (localhost)
+224.0.0.0 - 239.255.255.255	-	-	Multicast
+
+DEFINICIONES
+    router 
+        dispositivo intermediario
+        es un dispositivo que 
+            conecta diferentes redes de computadoras 
+            y dirige el tráfico de datos entre ellas.
+    dhcp
+        Un gateway es un dispositivo que 
+        actúa como punto de entrada o salida 
+        para una red, permitiendo 
+        la comunicación entre redes diferentes.
+    dns
+        Un DNS (Sistema de Nombres de Dominio) 
+        es un sistema que traduce los nombres de dominio 
+        de las direcciones web en direcciones IP, 
+        permitiendo así la localización 
+        de los servidores en internet.
+    POE 
+        significa Power over Ethernet, 
+        es una tecnología que permite 
+        la transmisión de energía eléctrica 
+        a través de cables de red Ethernet, 
+        lo que facilita la alimentación de dispositivos 
+            como cámaras de seguridad, 
+            teléfonos IP 
+            y puntos de acceso inalámbricos.    
+    direcciones ip utilizables no utilizables
+    insolated dispositivo aislado
+    reenvio de puertos
+    puertos
+    protocolo
+    trama
+    cabecera
+    modelo osi
+    switches 
+        capa 2
+            trama
+        capa 3
+            paquete
+        conecta acces point ap 
+    CAPAS 
+        https://www.youtube.com/watch?v=-QTNJws7PRg&ab_channel=Cegamer
+            EL VIAJE ES DE ARRIBA ABAJO
+        DATOS    
+            Capa de aplicacion / 7 / enrutamiento/ servicios de red a aplicaciones
+                se reciben los datos de la capa de aplicacion
+                dns
+                http 
+                ssh
+                ftp 
+                xmpp
+                [se reciben los datos de la capa de aplicacion]
+            Capa de presentacion / 6 / traduccion ,representacion de los datos
+                (encargada de cifrar y descifrar)
+                traduccion del mensaje cifrado seguro
+                traductor   permite a la capa de aplicacion 
+                    interpretar el significado de la 
+                    informacion que se intercambia
+                descifrar traducir 
+                para que ambos dispositivos comprendan lo mismo 
+                determinar el tipo de archivo enviado 
+                    asccii 
+                    ebcdic
+                [los datos se descifran completamente y se envian a capa aplicacion]
+        SEGMENTO TRAMA         
+            Capa de sesion sesion /5/ comunicacion entre disposistivos de la red 
+                Establecimiento de sesiones
+                responsable de apertura y cierre de comunicaciones
+                garantiza apertura de sesion 
+                    mientras se envian los datos
+                sql
+                rcp 
+            [se cierran las comunicaciones con dispositivo que envio]
+        transporte /4/ 
+            datos fragmentados en trozos mas pequenos
+            proporciona el control, 
+            permite transporte de los datos en forma segura
+            transferencia de datos fragmentada en trozos mas pequenos
+            tcp transmission protocol 
+            use datagram
+            udp protocol?   
+            [datos se terminan de rearmar]
+        nivel de red / 3 / enrutamiento
+            los datos que llegan se fragmentan 
+                en paquetes mas pequenos
+            busca el mejor camino
+            (router)
+            direccionamiento logico
+            determinacion de 
+                ruta 
+                e IP 
+            protocol 
+                ip 
+            [los datos continuan  ensamblandose]     
+        enlace de datos / 2 / 
+            toma los paquetes y los fragmenta en trozos mas pequenos
+            (switch)
+            direccionamiento fisico (mac llc) 
+            ethernet 
+            atm
+            frame 
+            relay
+            [informacion comienza a juntarse denuevo]
+        Nivel Fisico /1/
+            los datos pasan por la capa fisica 
+                convertidos en secuencias de 1 y 0
+                para pasar por medio fisico cable red o radiofrec
+            senal y transmision binaria 
+            conexiones fisicas
+            cable utp fibra optica hub 
+            o red de frecuencia del WIFI
+
+
+HUB 
+    es un dispositivo de red 
+    que actúa como un concentrador 
+    para interconectar varios dispositivos 
+    en una red local. 
+    Funciona enviando los datos recibidos 
+    en un puerto a todos los demás puertos, 
+    lo que significa que todos los dispositivos
+    conectados al hub reciben los datos, 
+    independientemente de si el dispositivo 
+    es el destinatario final o no. 
+    Esto puede causar congestión en la red 
+    y disminuir la eficiencia de la comunicación, 
+    ya que todos los dispositivos comparten el ancho de banda
+     disponible. 
+     Los hubs han sido en gran medida reemplazados 
+     por switches en las redes modernas, 
+     ya que los switches son más eficientes 
+     al enviar datos solo al dispositivo de destino correcto,
+        reduciendo la congestión 
+        y mejorando el rendimiento de la red.
+
+
+
+                 
+
+

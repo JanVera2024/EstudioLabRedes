@@ -1,0 +1,11 @@
+echo "# EstudioLabRedes" >> README.md
+git init
+git add README.md
+git commit -m "Primer commit 12 abril"
+git branch -M main
+git remote add origin https://github.com/JanVera2024/EstudioLabRedes.git
+git push -u origin main
+------
+git remote add origin https://github.com/JanVera2024/EstudioLabRedes.git
+git branch -M main
+git push -u origin main
