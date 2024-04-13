@@ -15,16 +15,16 @@ El Internet ha revolucionado la comunicación y transformado el mundo de manera 
     - Funcionamiento: Los cables de fibra óptica transmiten datos como pulsos de luz. Estos cables están enterrados bajo el mar y conectan continentes e islas. Al usar el Internet, tu computadora envía mensajes a través de estos cables para acceder a datos almacenados en otras máquinas.
     - Impacto: El Internet ha revolucionado la forma en que nos comunicamos, trabajamos, aprendemos y nos entretenemos. Desde el correo electrónico hasta las redes sociales, ha cambiado nuestra vida cotidiana.
     En resumen, el Internet ha conectado al mundo y ha permitido una comunicación instantánea y global como nunca antes. 🌐🚀
-¿Qué proveedores ofrecen acceso a Internet?
+proveedores ofrecen acceso a Internet?
   - Los proveedores de acceso a Internet (ISP) son empresas que conectan a los usuarios a Internet mediante diversas tecnologías como módems, DSL, enrutadores inalámbricos o conexiones de fibra óptica.
   - Ejemplos de proveedores incluyen AT&T, Verizon, y Xfinity.
-¿Qué son las redes?
+las redes?
   - Las redes son conjuntos de elementos interconectados que permiten compartir información o recursos entre ellos.
   - Pueden ser redes telefónicas, de transporte, informáticas o sociales.
-¿Qué es el hardware?
+el hardware?
   - El hardware es la parte física de un sistema informático, como la tarjeta madre, el procesador o el monitor.
   - Es todo lo tangible que conforma un equipo, desde teclados hasta dispositivos periféricos.
-¿Qué es el software?
+el software?
   - El software es el conjunto de programas y códigos que permiten el funcionamiento de un sistema informático.
   - Incluye aplicaciones, sistemas operativos y herramientas que controlan el hardware.
 Diferencia entre hardware y software:
